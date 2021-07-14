@@ -178,7 +178,7 @@ mark {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.75rem 1.625rem 2.75rem;
-	border: 1px solid #594cda;
+	border: 1px solid #207178;
 	border-radius: 32px;
 	background-color: #207178;
 	color: #F4EF21;
@@ -1582,7 +1582,7 @@ a:hover.back-to-top {
 
 	/* Details 2 */
 	.basic-3 .image-container {
-		margin-right: 3.5rem;
+		/* margin-right: 1rem; */
 	}
 
 	.basic-3 .text-container {
